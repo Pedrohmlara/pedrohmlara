@@ -1,5 +1,9 @@
 # Hi, I'm Pedro!
+
+#### ☕ [Check here](https://www.google.com/maps/d/edit?mid=17X4cu4f0iORqp1yp8k4El7bSCA_qQkw&usp=sharing) my favorite coffee shop places in the world
+
 Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expert in Cloud AI. AI/ML by University of Texas at Austin.
+
 
 - [Medium](https://medium.com/@pedrohmlara)
 - [LinkedIn](https://www.linkedin.com/in/pedrohmlara/)
