@@ -11,6 +11,13 @@ Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expe
 
 ### 2026 
 
+- [2026-06-18] [Content Creation] MeMo (Memory Model) with Gemma — Fine-tuning via Keras/KerasHub - https://colab.research.google.com/drive/1F2i-B1C6w52g6s7VKTASpH53wn1mIWac?usp=sharing (AI - Gemma,AI - Keras,AI - TPU)
+- [2026-06-13] [Github Repository] dsa-generator - https://github.com/Pedrohmlara/dsa-generator ()
+- [2026-06-10] [Workshop] TA in 4x Workshops in WebSummit Rio - https://rio.websummit.com/ - Rio de Janeiro, Brazil (AI,AI - Agent Development Kit (ADK),AI - Colab,AI - Gemini,AI - Gemini CLI,AI - Generative AI,AI - Responsible AI,AI - Gemini Enterprise Agent Platform,Cloud - AI Tools,Cloud - Data,Cloud - Compute, Networking, Storage,Cloud - Serverless & Containers)
+- [2026-06-06] [Public Speaking] Legal Eagles in the Cloud: Hacking the Court System (Legally) with Google - https://gdg.community.dev/events/details/google-gdg-natal-presents-google-io-extended-build-with-ai-2026-natal/ - Natal, Brazil (AI,Cloud - AI Tools,Cloud - Data)
+- [2026-05-16] [Workshop] Legal Eagles in the Cloud: Hacking the Court System (Legally) with Google - https://gdg.community.dev/events/details/google-gdg-cloud-sao-paulo-presents-build-with-ai-colab/ - São Paulo, Brazil (AI - Gemini Enterprise Agent Platform,Cloud - AI Tools,Firebase - Firestore)
+- [2026-05-13] [Github Repository] gemini-embeddings-2 - https://github.com/Pedrohmlara/gemini-embeddings-2 ()
+- [2026-05-13] [Github Repository] book-translator - https://github.com/Pedrohmlara/book-translator ()
 - [2026-05-08] [Workshop] AI Code Review Assistant with Google ADK - https://gdg.community.dev/events/details/google-gdg-campo-mourao-presents-hackacloud-build-with-ai/ - Campo Mourão, Brazil (AI - Agent Development Kit (ADK),AI - Generative AI)
 - [2026-04-30] [Public Speaking] Meetup AngularSP #85 ESPECIAL: Google Cloud Next - https://www.youtube.com/watch?v=Fgke0mC_Ox0 (AI - Agent Development Kit (ADK),AI - AI Studio,AI - Colab,AI - Gemini,AI - Gemma,AI - Generative AI,AI - JAX)
 - [2026-04-21] [Interaction With Googlers] Roundtable - DevTools @NEXT26 (Web - DevTools & Browser Automation)
@@ -23,6 +30,7 @@ Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expe
 
 ### 2025 (and earlier)
 
+- [2025-12-23] [Github Repository] dsaguru - https://github.com/Pedrohmlara/dsaguru ()
 - [English] Parameter-Efficient Fine-Tuning of Gemma with LoRA and TUNIX - https://colab.research.google.com/drive/1zg9SV9gAVCJSn6_jZlB4TuAih_7Jn9FA?usp=sharing (Gemma,Tunix,JAX,NNX,Gemma-2B,PEFT)
 - [English] Fine-tune EmbeddingGemma - https://drive.google.com/file/d/1dRjqty4RgIhlIQO_qtCdHX2dFCztvuTq/view?usp=sharing (Gemma,EmbeddingGemma,Fine Tunig)
 - [English] Better RAG with EmbeddingGemma Fine Tuning, Addressing CASE problem - https://docs.google.com/presentation/d/1NEtXhWHmfmvM3vSoOJbEgNLAfr24DUPeyjLO9Oofanw/edit?usp=sharing (Gemma,EmbeddingGemma,FineTuning,Embeddings)
