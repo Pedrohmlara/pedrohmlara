@@ -15,6 +15,8 @@ Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expe
 
 ### 2026 
 
+- [2026-08-15] [Workshop] Fine-Tuning Gemma for Fact Retrieval: A MeMo-Based Approach to Next-Gen RAG Systems - https://goo.gle/pi-gdm - São Paulo, Brazil (AI - Gemma,AI - Keras,AI - JAX)
+- [2026-07-31] [Workshop] Fine-Tuning Gemma for Fact Retrieval: A MeMo-Based Approach to Next-Gen RAG Systems - https://gdg.community.dev/events/details/google-gdg-santos-presents-quinzenal-grupo-de-estudos-amp-networking-2026-07-31/ (AI - Gemma,AI - Keras,AI - JAX)
 - [2026-06-18] [Content Creation] MeMo (Memory Model) with Gemma — Fine-tuning via Keras/KerasHub - https://colab.research.google.com/drive/1F2i-B1C6w52g6s7VKTASpH53wn1mIWac?usp=sharing (AI - Gemma,AI - Keras,AI - TPU)
 - [2026-06-13] [Github Repository] dsa-generator - https://github.com/Pedrohmlara/dsa-generator ()
 - [2026-06-10] [Workshop] TA in 4x Workshops in WebSummit Rio - https://rio.websummit.com/ - Rio de Janeiro, Brazil (AI,AI - Agent Development Kit (ADK),AI - Colab,AI - Gemini,AI - Gemini CLI,AI - Generative AI,AI - Responsible AI,AI - Gemini Enterprise Agent Platform,Cloud - AI Tools,Cloud - Data,Cloud - Compute, Networking, Storage,Cloud - Serverless & Containers)
